@@ -1,0 +1,30 @@
+/* public/styles.css – Enhanced styling */
+body {
+  background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.modal-body {
+  background: #fff;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+/* Additional styling for tables, forms, and buttons */
+.table thead th {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
